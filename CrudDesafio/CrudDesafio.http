@@ -1,0 +1,6 @@
+@CrudDesafio_HostAddress = http://localhost:5264
+
+GET {{CrudDesafio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
